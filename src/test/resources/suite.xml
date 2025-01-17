@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name ="automate daily finance management">
+    <test name=" register user and admin credential ">
+        <classes>
+            <class name ="testrunner.AdminTestRunner"> </class>
+
+        </classes>
+
+    </test>
+
+    <test name="user credential">
+        <classes>
+            <class name ="testrunner.UserTestRunner"> </class>
+
+        </classes>
+
+
+
+    </test>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</suite>
